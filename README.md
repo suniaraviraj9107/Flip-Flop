@@ -4,7 +4,7 @@ A modern, responsive memory card matching game built with React and TypeScript. 
 
 ![Memory Matrix Game](https://img.shields.io/badge/React-19.1.0-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue) ![Vite](https://img.shields.io/badge/Vite-6.3.5-green)
 
-<img width="912" height="844" alt="Screenshot 2025-07-14 020052" src="https://github.com/user-attachments/assets/27ed87d6-ecef-47b0-a0a2-88d874a7341a" />
+<img width="500" height="500" alt="Screenshot 2025-07-14 020052" src="https://github.com/user-attachments/assets/27ed87d6-ecef-47b0-a0a2-88d874a7341a" />
 
 
 ## 🎮 Live Demo
