@@ -9,7 +9,7 @@ A modern, responsive memory card matching game built with React and TypeScript. 
 
 ## 🎮 Live Demo
 
-[Play Memory Matrix](your-deployed-url-here) *(Add your deployment URL)*
+[Play Memory Matrix](https://flip-flop-orcin.vercel.app/)
 
 ## ✨ Features
 
